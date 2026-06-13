@@ -1,4 +1,4 @@
-# cosmic-route-runner# COSMIC ROUTE RUNNER
+# COSMIC ROUTE RUNNER
 
 ## 1. Giới thiệu đồ án
 
